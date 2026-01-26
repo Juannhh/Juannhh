@@ -1,3 +1,3 @@
 Juan Yebenes
 
-<img src="Github.png" width="800">
+<img src="Github.png" width="600">
