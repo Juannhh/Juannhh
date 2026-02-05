@@ -1,6 +1,6 @@
 <img src="Github.png" width="600">
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=36&pause=1000&color=C9D1D9&center=true&vCenter=true&width=500&lines=👋 Hi, I'm Juan Yébenes">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=36&pause=1000&color=C9D1D9&center=true&vCenter=true&width=500&lines=Hi+I+Am+Juan+Yebenes">
 </p>
 
 <p align="center">
@@ -10,8 +10,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/System%20Security-1F2937?style=for-the-badge&logo=security&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-</p>
+ </p>
 
 ---
 
@@ -23,7 +22,6 @@ role: IT Specialist
 skills:
   - Network Administration
   - Cybersecurity 
-  - Cloud (AWS)
   - Troubleshooting & Support
   - Customer-Oriented IT Solutions
 education:
