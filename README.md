@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github-banner.png" width="800" alt="Cybersecurity and Networking banner" />
+  <img src="./github.png" width="800" alt="Cybersecurity and Networking banner" />
 </p>
 
 <p align="center">
