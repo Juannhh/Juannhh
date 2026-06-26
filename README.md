@@ -2,6 +2,9 @@
 <p align="center">
   <img src="./github.png" width="800" alt="Cybersecurity and Networking banner" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=36&pause=1000&color=0A66C2&center=true&vCenter=true&width=750&lines=Caught+the+typo%3F+You%27re+human" />
+</p>
 
 <p align="center">
   <b>IT Specialist · Networking & System Security ·</b>
